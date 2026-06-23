@@ -1,16 +1,17 @@
-## Hi there 👋
+# مرحباً، أنا المهندسة ريم الفضلي👋
 
-<!--
-**reemalfadly/reemalfadly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+مهندسة تقنية ، كاتبة، وصانعة محتوى رقمي. شغفي يكمن في دمج التكنولوجيا بالفن لتقديم تجارب بصرية وتقنية مميزة.
 
-Here are some ideas to get you started:
+### 🛠️ الأدوات والتقنيات التي أعمل بها:
+- **تطوير البرمجيات:** Python, AI Automation.
+- **صناعة المحتوى:** DaVinci Resolve, CapCut.
+- **التوجه المهني:** Visual Journalism & Digital Content Creation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 اهتماماتي:
+- استكشاف أحدث تقنيات الذكاء الاصطناعي في الأتمتة (AI Automation).
+- دمج الفن البصري بالهندسة التقنية.
+- العمل على مشاريع برمجية تخدم المحتوى الرقمي.
+
+📫 يسعدني التواصل وتبادل المعرفة في مجالات التقنية والإبداع.
+
+
